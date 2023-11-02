@@ -4,7 +4,7 @@
 }
 .main{
     width: 100%;
-    background: url(../Pictures/cherry-blossom-tree.jpg);
+    background: url(./Pictures/cherry-blossom-tree.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
